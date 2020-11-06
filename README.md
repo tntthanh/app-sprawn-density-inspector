@@ -5,4 +5,4 @@ https://github.com/tntthanh/app-prawn-density-inspector
 <br/>
 Thank you and see you there!
 <br/>
-[<img src="image.png" width="480" height="480">](https://github.com/tntthanh/app-prawn-density-inspector)
+[<img src="image.png" width="500" height="480">](https://github.com/tntthanh/app-prawn-density-inspector)
